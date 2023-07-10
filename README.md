@@ -3,10 +3,12 @@
 `----------------------------------------------`  
   
 Short Course Title :  
-- Building Systems with the ChatGPT API
-- ChatGPT Prompt Engineering for Developers
-- LangChain for LLM Application Development
-- LangChain: Chat with Your Data
+- [First Course] ChatGPT Prompt Engineering for Developers  
+- [Second Course] Building Systems with the ChatGPT API  
+
+- [First Course] LangChain: Chat with Your Data  
+- [Second Course] LangChain for LLM Application Development  
+  
 - How Diffusion Models Work  
 
 `----------------------------------------------`
